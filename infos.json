@@ -848,10 +848,10 @@
         "match_value": "motorola/coful.*",
         "device_name": "Moto G31",
         "maintainer": {
-            "name": "Swastik369"
+            "name": "Swastik"
         },
         "community": {
-            "telegram": "https://t.me/swastik369"
+            "telegram": "https://t.me/phhtreble"
         },
         "preferences": {
             "key_misc_bluetooth": "mediatek"
